@@ -1,6 +1,6 @@
 # ft_irc
 
-Here is the ft_irc project wroted by [Luthernmr](https://github.com/Luthernmr) and I.
+Here is the ft_irc project wroted by [acroisie](https://github.com/acroisie) and I.
 
 The goal of this project is to achieve a basic irc server in C++.
 
