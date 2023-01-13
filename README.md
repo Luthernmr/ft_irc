@@ -24,7 +24,7 @@ The goal of this project is to achieve a basic **irc server** in C++.
 
 ### Add the server  on Weechat
 ```bash
-/server add irc <localhost>/<port> -password=<password>
+/server add <server_name> <localhost>/<port> -password=<password>
 ```
 ### Connect to server  
 ```bash
