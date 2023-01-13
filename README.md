@@ -7,7 +7,7 @@ The goal of this project is to achieve a basic **irc server** in C++.
 ## The rules:
 
 * Manage multiple connections without fork
-* Use **poll()** or equivalent (we use **select()**) to manage multiple clients interaction
+* Use `poll()` or equivalent (we use `select()`) to manage multiple clients interaction
 * Set socket to non-blocking mode
 * Authentify by nickname and password
 * Manage channel gestion
