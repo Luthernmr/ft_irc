@@ -40,7 +40,7 @@ You are now connected to the server!
 
 /msg <name>
 
-/notice <#channel_name>
+/notice #channel_name
 
 /mode <+o> <name> #mode list : +o, -o, +i, -i, +k, -k;
 
