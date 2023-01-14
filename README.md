@@ -13,7 +13,7 @@ The goal of this project is to achieve a basic **irc server** in C++.
 * Manage channel gestion
 * Get operator status/commands
 
-
+---
 
 ## To connect to the server, simply use Weechat and follow these steps :
 
